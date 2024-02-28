@@ -28,9 +28,9 @@ const perguntas = [
       correta: 1
   },
   {
-      pergunta: "Qual é o valor de π (pi)?",
+      pergunta: "Qual é o valor de π (pi) ?",
       respostas: [
-          "3.14",
+          "infinito",
           "3.1416",
           "3.14159"
       ],
